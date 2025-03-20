@@ -1,0 +1,28 @@
+#
+# Copyright (c) 2025 I Am One Church, Inc. All rights reserved.
+# OC Streaming Manifest file
+#
+
+
+# Channel Details
+title=One Church Streaming
+major_version=1
+minor_version=0
+build_version=0
+supports_input_launch=1
+
+# Channel Assets
+mm_icon_focus_hd=pkg:/images/iconhd.png
+mm_icon_focus_sd=pkg:/images/iconsd.png
+mm_icon_focus_fhd=pkg:/images/iconfhd.png
+
+# Splash Screen
+splash_screen_fhd=pkg:/images/splashfhd.png
+splash_screen_hd=pkg:/images/splashhd.png
+splash_screen_sd=pkg:/images/splashsd.png
+splash_color=#000000
+splash_min_time=3
+
+# Resolution
+ui_resolutions=fhd
+
